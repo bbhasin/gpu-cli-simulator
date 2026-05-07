@@ -9,7 +9,7 @@ against a persistent simulated cluster of 16 nodes × 8 H100 GPUs.
 > helps other candidates. Single Python file, no PyPI dependencies
 > beyond stdlib, runs on macOS / Linux / WSL.
 
-5.png
+https://github.com/bbhasin/gpu-cli-simulator/blob/main/5.png
 
 ---
 
