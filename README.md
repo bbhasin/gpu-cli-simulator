@@ -186,7 +186,7 @@ core simulator. (`mock-exam` uses only stdlib too.)
 Built by **Baljeet Bhasin** while preparing for NCP-AIOL. NCP-AII and
 NCA-AIIO certified, ex-Oracle OCI Compute TPM, transitioning into
 AI infrastructure roles. Connect on LinkedIn:
-[https://www.linkedin.com/in/baljeetbhasin](https://www.linkedin.com/in/baljeet-bhasin-pmp-968959/).
+[https://www.linkedin.com/in/baljeetbhasin](https://www.linkedin.com/in/baljeet-bhasin-pmp-968959/)
 
 If you're hiring for AI infrastructure roles (TPM, Solutions Architect,
 Customer Engineer, AI Operations Lead) at NVIDIA, a GPU cloud, or a
